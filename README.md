@@ -1,4 +1,3 @@
 # vipr
 
-
-dataset and project code
+Image segmentation on off road forest dataset
